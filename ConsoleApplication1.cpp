@@ -8,10 +8,3 @@ int main()/*主函数的函数头*/
 	return(0);/*程序返回值0*/
    
 }
-echo "# TESTE1" >> README.md
-git init
-git add README.md
-git commit - m “第一次提交”
-git 分支 - M main
-git 添加远程原点https ://github.com/XZB20041122/TESTE1.git
-git Push - u 起源 主要
